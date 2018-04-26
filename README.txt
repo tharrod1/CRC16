@@ -8,8 +8,3 @@ The files in this archive have three extensions:
 The files with the CRC extension have a valid CRC with ONE
 EXCEPTION - WS-BOGUS.crc which has an invalid CRC (for WS.plain).
 
-In the event that you'd like to change input data or the calculated CRC
-to something that is appropriately valid or invalid, REMEMBER to use
-a simple TEXT editor, such as Notepad, Notepad++, VIM, EMACS, or gedit,
-to modify the file's content.
-
